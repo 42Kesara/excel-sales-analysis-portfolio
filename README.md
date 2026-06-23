@@ -63,7 +63,7 @@ The project was developed to gain hands-on experience in transforming raw sales 
 
 ### Sales Analysis
 
-![Screenshot 1](1.PNG)
+![Screenshot 1](i1.PNG)
 
 ![Screenshot 2](i2.PNG)
 
